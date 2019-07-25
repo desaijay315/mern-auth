@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://mern-stack:qwerty123@ds343127.mlab.com:43127/mern-stack",
+  "jwtwebtoken": "thisismynewblog",
+  "githubClientId": "Iv1.c2a1cd6eb481455b",
+  "githubSecret": "0b0dc9eee977a30b3ff284e83d5ff49d9591f156"
+}
